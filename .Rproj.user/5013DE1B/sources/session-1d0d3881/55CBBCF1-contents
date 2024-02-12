@@ -1,0 +1,41 @@
+---
+title: "About Me"
+
+about: 
+  id: me
+  template: jolla
+  image: img/profile.png
+  links:
+    - text: LinkedIn
+      icon: linkdin
+      href: https://www.linkedin.com/in/isuru-dassanayake-b6a62485
+    - text: Email
+      icon: envelope
+      href: mailto:idassana@gmu.edu
+---
+
+::: {#me}
+**Isuru Dassanayake** is an Assistant Professor of Statistics at George Mason University, Fairfax, VA, USA. He received his PhD in Mathematics majoring in Statistics and a Master of Science in Statistics from Texas Tech University.
+
+His research interests include Machine Learning, Statistics Computing, Heteroscedastic Mixed Effects Models, Spatial data analysis, Bayesian Statistics, and High dimensional data analysis. His dissertation was mainly focused on Exploring Social and Economic Predictors for US Government Elections using advanced Statistical Modeling and Machine Learning techniques (including Neural Networks and Data Visualization tools: ggplot, Tableau, Plotly, etc) to investigate the capacity to maintain the stability of the United States Government after an election.
+
+Prior to joining George Mason University, he worked as a Graduate Part-Time instructor at Texas Tech University and as a Lecturer at the University of Peradeniya, Sri Lanka. He teaches probability & statistics for engineering and scientists 1 (STAT344) and applied statistics & visualization for analytics (STAT515).
+
+## Education
+
+**PhD, Mathematics with a concentration in Statistics,** Texas Tech University
+
+**MS, Statistics,** Texas Tech University
+
+**BS, Statistics,** University Peradeniya, Sri Lanka
+
+## Research Interests
+
+Machine Learning, Statistics Computing, Heteroscedastic Mixed Effects Models, Spatial data analysis, Bayesian Statistics, High dimensional data analysis
+
+## Contact Information
+
+Campus: Fairfax
+
+Building: Nguyen Engineering Building Room 1727 Mail Stop: 4A7
+:::
