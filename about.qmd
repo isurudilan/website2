@@ -5,3 +5,6 @@ editor: visual
 ---
 
 This is a demo website..... THis is the next line.
+
+{{< video https://www.youtube.com/watch?v=-hkFshMVRv8 >}}
+
